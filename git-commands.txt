@@ -7,3 +7,8 @@ Git Commands:
 username and set it up.
  git status: is a command that shows the list of files that have been changed  and files to be 
 staged or committed.
+Docker Commands:
+docker –version: This command shows the current docker version installed
+docker pull: This command will pull images from the docker repository.
+docker run: This command is used to create a container from an image
+docker ps: The command to list running containers.
