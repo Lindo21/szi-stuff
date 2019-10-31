@@ -1,0 +1,9 @@
+Git Commands:
+ git init : This command is used to create a local repository.
+ git clone:  The command to copy a repository. For instance git clone /path/to/repository
+ git add: This command is used to add files to the staging area.  The following command will index the temp.txt file:  git add <temp.txt>
+ git commit: This command can be used to create a snapshot of  changes to save to git directory.
+ git config –global user.username lind0 : This is a command that can be used to specify
+username and set it up.
+ git status: is a command that shows the list of files that have been changed  and files to be 
+staged or committed.
