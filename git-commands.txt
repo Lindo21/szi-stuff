@@ -12,3 +12,8 @@ docker –version: This command shows the current docker version installed
 docker pull: This command will pull images from the docker repository.
 docker run: This command is used to create a container from an image
 docker ps: The command to list running containers.
+Power shell commands:
+Get-EventLog -Log "Application": This command can be used to parse the event logs of the computer.
+Get-Process: A command to show a list of all system services, and display all processes currently running on the computer.
+3. Stop-Process: The command to freeze up a process. For instance to terminate notepad++
+Stop-Process -Name notepadd++
