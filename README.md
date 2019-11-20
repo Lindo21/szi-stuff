@@ -1,4 +1,4 @@
-#Lindon Ngonga 
+# Lindon Ngonga 
 # Course project Contributions
 # ASSIGNMENT ONE -GROUP WORK
 # Task 1:A reference guide that demonstrates at least 10 commands used to work with GIT, Docker, PowerShell, and Bash respectively.
